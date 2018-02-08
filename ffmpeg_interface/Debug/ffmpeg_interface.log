@@ -1,0 +1,184 @@
+﻿生成启动时间为 2018/1/31 20:22:41。
+     1>项目“F:\Projects\ffmpeg_interface\ffmpeg_interface\ffmpeg_interface.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing ffmpeg_interface.h...
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing cut_video__.h...
+         Qt: Untested Windows version 10.0 detected!
+         moc: separate_.h: No such file
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing commom_signal.h...
+         Qt: Untested Windows version 10.0 detected!
+         moc: separate_.h: No such file
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing cut_video_2.h...
+         Qt: Untested Windows version 10.0 detected!
+         moc: separate_.h: No such file
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing merge_audio.h...
+         Qt: Untested Windows version 10.0 detected!
+         moc: separate_.h: No such file
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing merge_vides_.h...
+         Qt: Untested Windows version 10.0 detected!
+         moc: separate_.h: No such file
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing separate__.h...
+         Qt: Untested Windows version 10.0 detected!
+         moc: separate_.h: No such file
+         Qt: Untested Windows version 10.0 detected!
+         Moc'ing separate.h...
+         Qt: Untested Windows version 10.0 detected!
+         moc: separate_.h: No such file
+         Qt: Untested Windows version 10.0 detected!
+         Rcc'ing ffmpeg_interface.qrc...
+         Qt: Untested Windows version 10.0 detected!
+     1>RCC : warning : No resources in 'F:\Projects\ffmpeg_interface\ffmpeg_interface\ffmpeg_interface.qrc'.
+         
+         Uic'ing transform_panel.ui...
+         Uic'ing format_progam_3.ui...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_camera_play.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_camera_play.cpp, GeneratedFiles\Release\moc_camera_play.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_camera_specifics.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_camera_specifics.cpp, GeneratedFiles\Release\moc_camera_specifics.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_commom_signal.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_commom_signal.cpp, GeneratedFiles\Release\moc_commom_signal.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_cut_video_2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_cut_video_2.cpp, GeneratedFiles\Release\moc_cut_video_2.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_cut_video__.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_cut_video__.cpp, GeneratedFiles\Release\moc_cut_video__.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_decodec_higher.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_decodec_higher.cpp, GeneratedFiles\Release\moc_decodec_higher.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_decode_transform_video.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_decode_transform_video.cpp, GeneratedFiles\Release\moc_decode_transform_video.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_ffmpeg_interface.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_ffmpeg_interface.cpp, GeneratedFiles\Release\moc_ffmpeg_interface.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_format_progam_3.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_format_progam_3.cpp, GeneratedFiles\Release\moc_format_progam_3.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_label_video.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_label_video.cpp, GeneratedFiles\Release\moc_label_video.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_merge_audio.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_merge_audio.cpp, GeneratedFiles\Release\moc_merge_audio.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_merge_gui.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_merge_gui.cpp, GeneratedFiles\Release\moc_merge_gui.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_merge_music__.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_merge_music__.cpp, GeneratedFiles\Release\moc_merge_music__.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_merge_vides_.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_merge_vides_.cpp, GeneratedFiles\Release\moc_merge_vides_.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_remutex.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_remutex.cpp, GeneratedFiles\Release\moc_remutex.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_save_picture.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_save_picture.cpp, GeneratedFiles\Release\moc_save_picture.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_separate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_separate.cpp, GeneratedFiles\Release\moc_separate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_separate_gui.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_separate_gui.cpp, GeneratedFiles\Release\moc_separate_gui.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_separate__.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_separate__.cpp, GeneratedFiles\Release\moc_separate__.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_seperte_music.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_seperte_music.cpp, GeneratedFiles\Release\moc_seperte_music.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_system_tray.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_system_tray.cpp, GeneratedFiles\Release\moc_system_tray.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_toolbox.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_toolbox.cpp, GeneratedFiles\Release\moc_toolbox.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_transform_panel.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_transform_panel.cpp, GeneratedFiles\Release\moc_transform_panel.cpp.
+       ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\qt\5.4\msvc2013\include /I.\GeneratedFiles\Debug /ID:\qt\5.4\msvc2013\include\QtCore /ID:\qt\5.4\msvc2013\include\QtGui /ID:\qt\5.4\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_commom_signal.cpp GeneratedFiles\Debug\moc_cut_video_2.cpp GeneratedFiles\Debug\moc_cut_video__.cpp GeneratedFiles\Debug\moc_ffmpeg_interface.cpp GeneratedFiles\Debug\moc_format_progam_3.cpp GeneratedFiles\Debug\moc_merge_audio.cpp GeneratedFiles\Debug\moc_merge_vides_.cpp GeneratedFiles\Debug\moc_separate.cpp GeneratedFiles\Debug\moc_separate__.cpp GeneratedFiles\Debug\moc_transform_panel.cpp camera_play.cpp commom_signal.cpp decode_transform_video.cpp decodec_higher.cpp ffmpeg_interface.cpp format_progam_3.cpp global.cpp label_video.cpp main.cpp merge_gui.cpp merge_music__.cpp seperte_music.cpp system_tray.cpp toolbox.cpp transform_panel.cpp
+         moc_commom_signal.cpp
+         moc_cut_video_2.cpp
+         moc_cut_video__.cpp
+         moc_ffmpeg_interface.cpp
+         moc_format_progam_3.cpp
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\player.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\packet_queue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\wrap_base.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\audio.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\video.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_merge_audio.cpp
+         moc_merge_vides_.cpp
+         moc_separate.cpp
+         moc_separate__.cpp
+         moc_transform_panel.cpp
+         camera_play.cpp
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\camera_play.h(21): warning C4129: “[”: 不可识别的字符转义序列
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\camera_specifics.h(65): warning C4129: “	”: 不可识别的字符转义序列
+         commom_signal.cpp
+         decode_transform_video.cpp
+         decodec_higher.cpp
+         ffmpeg_interface.cpp
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\camera_play.h(21): warning C4129: “[”: 不可识别的字符转义序列
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\camera_specifics.h(65): warning C4129: “	”: 不可识别的字符转义序列
+         format_progam_3.cpp
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\player.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\packet_queue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\wrap_base.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\audio.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\video.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         global.cpp
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\player.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\packet_queue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\wrap_base.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\audio.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\video.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         label_video.cpp
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\player.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\packet_queue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\wrap_base.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\audio.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\video.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         main.cpp
+         merge_gui.cpp
+         正在生成代码...
+         正在编译...
+         merge_music__.cpp
+         seperte_music.cpp
+         system_tray.cpp
+         toolbox.cpp
+         transform_panel.cpp
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\player.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\packet_queue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\wrap_base.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\audio.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\projects\ffmpeg_interface\ffmpeg_interface\video.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         D:\vs2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\qt\5.4\msvc2013\include /I.\GeneratedFiles\Debug /ID:\qt\5.4\msvc2013\include\QtCore /ID:\qt\5.4\msvc2013\include\QtGui /ID:\qt\5.4\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_ffmpeg_interface.cpp
+         qrc_ffmpeg_interface.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Projects\ffmpeg_interface\Win32\Debug\\ffmpeg_interface.exe" /NOLOGO /LIBPATH:D:\qt\5.4\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Projects\ffmpeg_interface\Win32\Debug\ffmpeg_interface.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Projects\ffmpeg_interface\Win32\Debug\ffmpeg_interface.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Debug\audio.obj
+         Debug\camera_play.obj
+         Debug\camera_specifics.obj
+         Debug\commom_signal.obj
+         Debug\cut_video_2.obj
+         Debug\cut_video__.obj
+         Debug\decodec_higher.obj
+         Debug\decode_transform_video.obj
+         Debug\DS_AudioVideoDevices.obj
+         Debug\ffmpeg_interface.obj
+         Debug\format_progam_3.obj
+         Debug\moc_camera_play.obj
+         Debug\moc_camera_specifics.obj
+         Debug\moc_commom_signal.obj
+         Debug\moc_cut_video_2.obj
+         Debug\moc_cut_video__.obj
+         Debug\moc_decodec_higher.obj
+         Debug\moc_decode_transform_video.obj
+         Debug\moc_ffmpeg_interface.obj
+         Debug\moc_format_progam_3.obj
+         Debug\moc_label_video.obj
+         Debug\moc_merge_audio.obj
+         Debug\moc_merge_gui.obj
+         Debug\moc_merge_music__.obj
+         Debug\moc_merge_vides_.obj
+         Debug\moc_remutex.obj
+         Debug\moc_save_picture.obj
+         Debug\moc_separate.obj
+         Debug\moc_separate_gui.obj
+         Debug\moc_separate__.obj
+         Debug\moc_seperte_music.obj
+         Debug\moc_system_tray.obj
+         Debug\moc_toolbox.obj
+         Debug\moc_transform_panel.obj
+         Debug\qrc_ffmpeg_interface.obj
+         Debug\global.obj
+         Debug\label_video.obj
+         Debug\main.obj
+         Debug\merge_audio.obj
+         Debug\merge_gui.obj
+         Debug\merge_music__.obj
+         Debug\merge_vides_.obj
+         Debug\packet_queue.obj
+         Debug\remutex.obj
+         Debug\save_picture.obj
+         Debug\separate.obj
+         Debug\separate_gui.obj
+         Debug\separate__.obj
+         Debug\seperte_music.obj
+         Debug\system_tray.obj
+         Debug\toolbox.obj
+         Debug\transform_panel.obj
+         Debug\video.obj
+         Debug\wrap_base.obj
+         ffmpeg_interface.vcxproj -> F:\Projects\ffmpeg_interface\Win32\Debug\ffmpeg_interface.exe
+     1>已完成生成项目“F:\Projects\ffmpeg_interface\ffmpeg_interface\ffmpeg_interface.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:36.99
