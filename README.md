@@ -1,2 +1,0 @@
-# ffmpeg_decode_1
-基于ffmpeg与qt的一款视音频解码软件
